@@ -1,0 +1,23 @@
+body{
+	font-family: verdana; sans- serif; 
+	text-align: center;
+	background-color: FBE870;
+}
+h1{
+	color: AA003D;
+}
+fieldset{
+	border-color: FE4164;
+}
+form{
+	margin: 30px 100px;
+}
+#nome, #apelido,#idade{
+	background-color: white;
+	border-color: F4A460;
+}
+#hobbies{
+	background-color: white;
+	border-width: 3px;
+	border-color: F4A460;
+}
